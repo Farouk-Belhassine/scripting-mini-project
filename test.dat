@@ -1,0 +1,18 @@
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev             1956312       0   1956312   0% /dev
+tmpfs             396096    1992    394104   1% /run
+/dev/sda6       48951972 6519776  39915820  15% /
+tmpfs            1980460       0   1980460   0% /dev/shm
+tmpfs               5120       4      5116   1% /run/lock
+tmpfs            1980460       0   1980460   0% /sys/fs/cgroup
+/dev/loop4         55808   55808         0 100% /snap/core18/1066
+/dev/loop1         15104   15104         0 100% /snap/gnome-characters/296
+/dev/loop3          4224    4224         0 100% /snap/gnome-calculator/406
+/dev/loop7          1024    1024         0 100% /snap/gnome-logs/61
+/dev/loop0          3840    3840         0 100% /snap/gnome-system-monitor/100
+/dev/loop2        153600  153600         0 100% /snap/gnome-3-28-1804/67
+/dev/loop6         90624   90624         0 100% /snap/core/7270
+/dev/loop5         43904   43904         0 100% /snap/gtk-common-themes/1313
+tmpfs             396092      16    396076   1% /run/user/121
+tmpfs             396092      60    396032   1% /run/user/1000
+/dev/sdb1        3912704    1384   3911320   1% /media/farouk/SPECTRE
